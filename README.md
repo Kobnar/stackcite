@@ -1,0 +1,2 @@
+# stackcite
+A math reference.
